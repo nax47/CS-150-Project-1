@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=ID
-comment0.target=Person(int)
-comment0.text=\r\n\ Default\ constructor.\r\n\ \r\n\ Initializes\ a\ Person's\ ID.\ \r\n
-comment1.params=
-comment1.target=int\ getID()
-comment1.text=\r\n\ Retrieves\ a\ person's\ ID\ number.\r\n\ \r\n\ @return\ Returns\ ID\ as\ integer.\r\n
-numComments=2

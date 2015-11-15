@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=mean\ std_dev
-comment0.target=GaussianGenerator(int,\ int)
-comment0.text=\r\n\ Default\ constructor.\r\n\ \r\n\ @param\ mean\ Mean\ value\ for\ Gaussian\ distribution.\r\n\ @param\ std_dev\ Standard\ deviation\ for\ Gaussian\ Distribution.\r\n
-comment1.params=
-comment1.target=int\ generate()
-comment1.text=\r\n\ Method\ to\ generate\ and\ return\ random\ numbers\ in\ a\ Gaussian\ distribution.\r\n\r\n\ @return\ Returns\ random\ number\ as\ an\ integer.\r\n
-numComments=2

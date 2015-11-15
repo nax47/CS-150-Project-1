@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.params=ID
-comment0.target=Worker(int)
-comment0.text=\r\n\ Default\ constructor.\r\n\ \r\n\ Initializes\ a\ worker's\ ID.\ \r\n
-numComments=1
