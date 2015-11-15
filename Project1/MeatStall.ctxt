@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=ID
+comment0.target=MeatStall(int)
+comment0.text=\r\n\ Default\ constructor.\r\n\ \r\n\ Calls\ default\ super\ and\ intializes\ units\ for\ this\ stall\ and\ sets\ state.\r\n\ \r\n\ @param\ ID\ Unique\ ID\ for\ every\ instance\ of\ certain\ type\ of\ stall.\r\n
+numComments=1

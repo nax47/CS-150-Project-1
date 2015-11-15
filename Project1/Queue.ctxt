@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Queue()
+comment0.text=\r\n\ Default\ constructor.\r\n
+comment1.params=
+comment1.target=java.lang.Object\ peek()
+comment1.text=\r\n\ Retrieves\ the\ element\ at\ the\ front\ of\ the\ queue.\r\n\ \r\n\ @return\ Returns\ element\ at\ the\ front\ of\ queue.\r\n
+comment2.params=
+comment2.target=java.lang.Object\ poll()
+comment2.text=\r\n\ Removes\ and\ retrieves\ the\ element\ at\ the\ front\ of\ the\ queue.\r\n\ \r\n\ @return\ Returns\ element\ at\ the\ front\ of\ queue\ (Returns\ null\ if\ empty)\r\n
+comment3.params=
+comment3.target=java.lang.Object\ remove()
+comment3.text=\r\n\ Removes\ and\ retrieves\ the\ element\ at\ the\ front\ of\ the\ queue.\r\n\ \r\n\ @return\ Returns\ element\ at\ the\ front\ of\ queue\ (Throws\ exception\ if\ empty)\r\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\r\n\ Returns\ size\ of\ the\ queue.\r\n\ \r\n\ @return\ Returns\ the\ size\ as\ an\ integer.\r\n
+comment5.params=
+comment5.target=java.util.Iterator\ iterator()
+comment5.text=\r\n\ Returns\ an\ Iterator\ for\ this\ list.\r\n\ \r\n\ @return\ Returns\ an\ Iterator\ object.\r\n
+comment6.params=e
+comment6.target=boolean\ offer(java.lang.Object)
+comment6.text=\r\n\ Allows\ new\ element\ to\ be\ added\ to\ the\ back\ of\ the\ queue.\r\n\r\n\ @param\ e\ Element\ to\ be\ added\ to\ back\ of\ queue\r\n\ @return\ Returns\ true\ if\ successfully\ added,\ otherwise\ returns\ false.\r\n
+numComments=7
